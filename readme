@@ -1,0 +1,8 @@
+使用方法：python scan_script.py -u www.baidu.com
+-u 查询IP
+-c 查询CDN是否存在
+-p 端口扫描
+-w 查询whois
+-d 扫描子域名
+端口可以自行修改，子域名可以寻找字典放入根目录下。
+新手作品，大神勿喷
